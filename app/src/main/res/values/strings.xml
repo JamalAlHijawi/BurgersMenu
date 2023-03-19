@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M.B.J</string>
+
+    <string-array name="burger_list">
+
+        <item>Cheeseburger</item>
+        <item>Chicken burger</item>
+        <item>Veggie burger</item>
+        <item>Fish burger</item>
+    </string-array>
+</resources>
